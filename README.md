@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is John Mark D. Luste
 ===========================================================================================================================================
 
-Web Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;System+Designer;System+Developer;PHP+Developer)](https://git.io/typing-svg)
 -------------
 
 * 🌍  I'm based in Philippines
