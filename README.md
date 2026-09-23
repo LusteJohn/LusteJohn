@@ -4,7 +4,7 @@
 -------------
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [john-portfilio-app](http://http://portofilio-john-2i1q.vercel.app/)
+* 🖥️  See my portfolio at [john-portfilio-app](https://devjohnmark.vercel.app/)
 * ✉️  You can contact me at [luste.johnmark19@gmail.com](mailto:luste.johnmark19@gmail.com)
 * 🧠  I'm currently learning Advanced PHP (OOP & MVC) API Development and Integration, Framework(Laravel, React, & Vue.js), and Deployment (Firebase, hosting, and cloud basics)
 * 👥  I'm looking to collaborate on web developer opportunities and internships where I can apply my skills and grow professionally.
