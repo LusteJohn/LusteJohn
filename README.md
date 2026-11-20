@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=John%20Mark%20Luste&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20System%20Designer%20%7C%20PHP%20Developer&descAlignY=58&descSize=16" alt="John Mark Luste" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=John%20Mark%20Luste&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Website%20Developer%20%7C%20Mobile%20Android%20App%20Developer%20%7C%20System%20Designer%20%7C%20PHP%20Developer&descAlignY=58&descSize=14" alt="John Mark Luste" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+John+Mark+Luste+👋;Web+Developer;System+Designer;PHP+Developer;Mobile+App+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+John+Mark+Luste+👋;Web+Developer;Website+Developer;Mobile+Android+App+Developer;System+Designer;PHP+Developer)](https://git.io/typing-svg)
 
 <a href="https://devjohnmark.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3382ed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=27272a" alt="Portfolio" /></a>
 <a href="mailto:luste.johnmark19@gmail.com"><img src="https://img.shields.io/badge/Email-f97316?style=for-the-badge&logo=gmail&logoColor=white&labelColor=27272a" alt="Email" /></a>
@@ -59,6 +59,8 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
 </td>
 </tr>
 <tr>
@@ -72,12 +74,22 @@
 </td>
 </tr>
 <tr>
+<th>Mobile</th>
+<td>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React Native" title="React Native" width="36" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
+</td>
+</tr>
+<tr>
 <th>Backend &amp; Database</th>
 <td>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" />
+<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" width="36" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" />
 </td>
 </tr>
 <tr>
